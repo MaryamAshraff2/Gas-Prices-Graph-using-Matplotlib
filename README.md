@@ -17,5 +17,3 @@ Skills: C++ / PYTHON / SQL/ DATA ANALYSIS / DATA VISUALIZATION
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaryamAshraff2&show_icons=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/MaryamAshraff2/contributions?format=svg&private=false)  
-
